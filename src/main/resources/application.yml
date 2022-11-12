@@ -16,17 +16,3 @@ spring:
         dialect: org.hibernate.dialect.PostgreSQL10Dialect
         jdbc:
           timezone: UTC
-  output:
-    ansi:
-      enabled: DETECT
-
-logging:
-  file:
-    name: logs/application-log.log
-  level:
-    root: error
-    org.springframework.web: error
-    com.kata.warehouse_accounting: debug
-    org.hibernate: error
-  pattern:
-    dateformat: yy-MM-dd HH:mm:ss
