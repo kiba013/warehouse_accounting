@@ -1,8 +1,8 @@
-package com.kata.warehouse_accounting.controller;
+package com.kata.warehouse_accounting.country.controller;
 
 
-import com.kata.warehouse_accounting.model.CountryDTO;
-import com.kata.warehouse_accounting.service.CountryService;
+import com.kata.warehouse_accounting.country.model.CountryDTO;
+import com.kata.warehouse_accounting.country.service.CountryService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.DeleteMapping;

@@ -1,6 +1,6 @@
-package com.kata.warehouse_accounting.service;
+package com.kata.warehouse_accounting.country.service;
 
-import com.kata.warehouse_accounting.model.CountryDTO;
+import com.kata.warehouse_accounting.country.model.CountryDTO;
 
 import java.util.List;
 

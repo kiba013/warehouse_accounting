@@ -1,4 +1,4 @@
-package com.kata.warehouse_accounting.model;
+package com.kata.warehouse_accounting.country.model;
 
 
 import org.mapstruct.Mapper;

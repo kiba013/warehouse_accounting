@@ -1,8 +1,8 @@
-package com.kata.warehouse_accounting.service;
+package com.kata.warehouse_accounting.country.service;
 
-import com.kata.warehouse_accounting.model.CountryDTO;
-import com.kata.warehouse_accounting.model.CountryMapper;
-import com.kata.warehouse_accounting.repository.CountryRepository;
+import com.kata.warehouse_accounting.country.model.CountryDTO;
+import com.kata.warehouse_accounting.country.model.CountryMapper;
+import com.kata.warehouse_accounting.country.repository.CountryRepository;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
